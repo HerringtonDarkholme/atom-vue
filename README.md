@@ -1,5 +1,4 @@
 # languageserver-vue
------
 
 Adds the Vue Language Server to Atom.
 
@@ -11,3 +10,5 @@ Requirement
 -------
 
 It requires https://github.com/hedefalk/atom-vue installed.
+
+Nuclide, https://atom.io/packages/nuclide, is optional but nice-to-have plugin.
