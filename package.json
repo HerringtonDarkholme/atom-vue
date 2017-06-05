@@ -1,7 +1,7 @@
 {
   "name": "languageserver-vue",
   "main": "./lib/main",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "vue language server support for atom",
   "keywords": [],
   "repository": "https://github.com/HerringtonDarkholme/atom-vue",
