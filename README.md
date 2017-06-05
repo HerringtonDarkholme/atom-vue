@@ -12,3 +12,9 @@ Requirement
 It requires https://github.com/hedefalk/atom-vue installed.
 
 Nuclide, https://atom.io/packages/nuclide, is optional but nice-to-have plugin.
+
+
+ScreenShot
+----
+
+https://github.com/HerringtonDarkholme/atom-vue/issues/1
